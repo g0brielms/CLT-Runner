@@ -1,0 +1,1 @@
+audio_play_sound(som_corrida,1,1,1,60);
