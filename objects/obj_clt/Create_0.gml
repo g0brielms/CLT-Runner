@@ -1,3 +1,4 @@
+randomise();
 x=choose(30,150);
 
 

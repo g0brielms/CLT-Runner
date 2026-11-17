@@ -1,5 +1,6 @@
 sprite_index = choose(spr_batata,spr_chocolate,spr_coxinha,spr_hamburguer);
 
+randomise();
 x=choose(25,155);
 
 

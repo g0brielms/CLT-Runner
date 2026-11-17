@@ -69,11 +69,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"room_jogo","path":"rooms/room_jogo/room_jogo.yy",},},
     {"roomId":{"name":"room_historia_1","path":"rooms/room_historia_1/room_historia_1.yy",},},
     {"roomId":{"name":"room_historia_2","path":"rooms/room_historia_2/room_historia_2.yy",},},
     {"roomId":{"name":"room_historia_3","path":"rooms/room_historia_3/room_historia_3.yy",},},
     {"roomId":{"name":"room_historia_4","path":"rooms/room_historia_4/room_historia_4.yy",},},
+    {"roomId":{"name":"room_jogo","path":"rooms/room_jogo/room_jogo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
